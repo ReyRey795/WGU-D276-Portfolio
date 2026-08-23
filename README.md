@@ -131,7 +131,8 @@ WGU-D276-Portfolio/
 - [x] Tested all navigation links
 - [x] Tested JavaScript date output
 - [x] Verified browser console output
-- [ ] Test contact form submission
+- [x] Tested contact form submission
+- [x] Verified submitted form values in ZyBooks form viewer
 - [x] Verified local image
 - [x] Verified local audio
 - [x] Verified local video
@@ -145,13 +146,15 @@ WGU-D276-Portfolio/
 
 ## Current Status
 
-**Current focus:** Final testing and rubric review
+**Current focus:** Final WGU rubric review
 
 The résumé, cover letter, and career goals pages now contain their required HTML, JavaScript, media, and form elements.
 
-All four HTML pages and the shared stylesheet have passed W3C validation with zero errors. Manual testing has also confirmed that navigation, responsive behavior, JavaScript output, and local media are functioning as expected.
+All four HTML pages and the shared stylesheet have passed W3C validation with zero errors. Manual testing confirmed that navigation, responsive behavior, JavaScript output, and local media are functioning correctly.
 
-The remaining work is to test the contact form submission and perform a final review of the completed website against the WGU assessment requirements.
+The Career Goals contact form was also successfully submitted to the required ZyBooks form viewer, and all submitted values were displayed correctly.
+
+The remaining step is a final requirement-by-requirement review of the completed website before submission.
 
 ## Development Approach
 
