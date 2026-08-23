@@ -7,6 +7,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
 }
+
 nav {
     display: flex;
     gap: 20px;
@@ -21,4 +22,27 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
+}
+
+img {
+    display: block;
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+video {
+    display: block;
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+audio {
+    display: block;
+    width: 300px;
+    max-width: 100%;
+    margin-top: 10px;
 }
