@@ -44,6 +44,11 @@ h3 {
     font-size: 0.9rem;
 }
 
+.professional-identifier {
+    font-weight: 700;
+    color: #374151;
+}
+
 ul {
     list-style: square;
 }
