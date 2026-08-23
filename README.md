@@ -36,7 +36,11 @@ WGU-D276-Portfolio/
 ├── style.css
 ├── script.js
 ├── assets/
+│   ├── ProfessionalHeadshot.png
+│   └── military photo.jpeg
 ├── media/
+│   ├── career-goals.m4a
+│   └── career-goals-video.mp4
 └── README.md
 ```
 
@@ -93,20 +97,22 @@ WGU-D276-Portfolio/
 
 ### Career Goals Page
 
-- [ ] Add career goals content
-- [ ] Add local image
-- [ ] Add local audio
-- [ ] Add local video
-- [ ] Create contact form
-- [ ] Add first name field
-- [ ] Add last name field
-- [ ] Add company field
-- [ ] Add email field
-- [ ] Add phone field
-- [ ] Add message field
-- [ ] Add preferred contact time
-- [ ] Add preferred contact method
-- [ ] Add form submission action
+- [x] Added career goals content
+- [x] Added local professional image
+- [x] Added local audio
+- [x] Added local CareerForge video
+- [x] Created contact form
+- [x] Added first name field
+- [x] Added last name field
+- [x] Added company field
+- [x] Added email field
+- [x] Added phone field
+- [x] Added message field
+- [x] Added preferred contact time options
+- [x] Added preferred contact method selection
+- [x] Added form submit button
+- [x] Added required form action
+- [x] Completed required Career Goals elements
 
 ### Styling
 
@@ -119,6 +125,7 @@ WGU-D276-Portfolio/
 - [ ] Style cover letter
 - [ ] Style career goals page
 - [ ] Style contact form
+- [ ] Size responsive image and video
 - [ ] Add responsive design
 
 ### Testing
@@ -127,7 +134,9 @@ WGU-D276-Portfolio/
 - [ ] Test JavaScript date output
 - [ ] Verify browser console output
 - [ ] Test contact form
-- [ ] Verify local media
+- [ ] Verify local image
+- [ ] Verify local audio
+- [ ] Verify local video
 - [ ] Test responsive layouts
 - [ ] Validate HTML
 - [ ] Validate CSS
@@ -135,9 +144,11 @@ WGU-D276-Portfolio/
 
 ## Current Status
 
-**Current focus:** Career Goals page
+**Current focus:** Styling and presentation
 
-The résumé and cover letter pages now contain their required HTML and JavaScript elements. Development is continuing with the Career Goals page and its required local media and contact form.
+The résumé, cover letter, and career goals pages now contain their required HTML, JavaScript, media, and form elements.
+
+The next phase of development focuses on creating a consistent visual design across the website while preserving the required functionality.
 
 ## Development Approach
 
