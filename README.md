@@ -61,6 +61,7 @@ WGU-D276-Portfolio/
 ### Résumé Page
 
 - [x] Added semantic HTML structure
+- [x] Added required `<article>` element
 - [x] Added three levels of headings
 - [x] Added professional summary
 - [x] Added contact information
@@ -85,6 +86,8 @@ WGU-D276-Portfolio/
 
 ### Cover Letter Page
 
+- [x] Added semantic `<section>` element
+- [x] Added semantic `<article>` element
 - [x] Added cover letter introduction
 - [x] Added professional identifier
 - [x] Added multiple paragraphs
@@ -117,6 +120,10 @@ WGU-D276-Portfolio/
 ### Styling
 
 - [x] Added basic CSS foundation
+- [x] Added element selectors
+- [x] Added ID selector
+- [x] Added class selector
+- [x] Added `list-style` property
 - [x] Added basic navigation styling
 - [x] Styled site header
 - [x] Added shared page spacing
@@ -142,22 +149,23 @@ WGU-D276-Portfolio/
 - [x] Validated `cover-letter.html` with 0 errors
 - [x] Validated `career-goals.html` with 0 errors
 - [x] Validated `style.css` with 0 errors
-- [ ] Complete final WGU rubric review
+- [x] Revalidated modified files after final rubric corrections
+- [x] Completed final WGU rubric review
 
 ## Current Status
 
-**Current focus:** Final WGU rubric review
+**Project status:** Complete and ready for submission review
 
-The résumé, cover letter, and career goals pages now contain their required HTML, JavaScript, media, and form elements.
+The résumé, cover letter, and career goals pages contain the required HTML, CSS, JavaScript, media, and form elements.
 
-All four HTML pages and the shared stylesheet have passed W3C validation with zero errors. Manual testing confirmed that navigation, responsive behavior, JavaScript output, and local media are functioning correctly.
+All HTML pages and the shared stylesheet have passed W3C validation with zero errors. Manual testing confirmed that navigation, responsive behavior, JavaScript output, local media, and the contact form are functioning correctly.
 
-The Career Goals contact form was also successfully submitted to the required ZyBooks form viewer, and all submitted values were displayed correctly.
+The contact form successfully submitted test information to the required ZyBooks form viewer, and the submitted values displayed correctly.
 
-The remaining step is a final requirement-by-requirement review of the completed website before submission.
+A final rubric review identified and corrected additional semantic HTML and CSS selector requirements. The modified files were then revalidated successfully.
 
 ## Development Approach
 
-This project is intentionally being built in small steps rather than completed all at once.
+This project was intentionally built in small steps rather than completed all at once.
 
-Each meaningful change is committed separately to Git so the repository history shows the development and learning process from the initial HTML structure through the completed portfolio.
+Each meaningful change was committed separately to Git so the repository history documents the development and learning process from the initial HTML structure through the completed portfolio.
