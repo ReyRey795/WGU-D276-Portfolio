@@ -10,6 +10,8 @@ body {
 
 header {
     padding: 20px;
+    background-color: #1f2933;
+    color: #ffffff;
 }
 
 main {
@@ -30,7 +32,7 @@ nav {
 }
 
 nav a {
-    color: #1f2933;
+    color: #ffffff;
     text-decoration: none;
     font-weight: 600;
 }
