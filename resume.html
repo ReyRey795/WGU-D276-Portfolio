@@ -145,7 +145,17 @@
         <p>&copy; 2026 Reynaldo Serrano</p>
     </footer>
 
-    <script src="script.js"></script>
+    <script>
+        "use strict";
+
+        const dateContainer = document.getElementById("current-date");
+        const currentDate = new Date();
+
+        dateContainer.textContent =
+            `Current Date: ${currentDate.toLocaleDateString()}`;
+
+        console.log("Resume page loaded successfully.");
+    </script>
 
 </body>
 
