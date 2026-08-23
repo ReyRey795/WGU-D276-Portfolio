@@ -126,7 +126,7 @@ WGU-D276-Portfolio/
 - [x] Improved section and heading spacing
 - [x] Added responsive design
 
-### Testing
+### Testing and Validation
 
 - [x] Tested all navigation links
 - [x] Tested JavaScript date output
@@ -136,19 +136,22 @@ WGU-D276-Portfolio/
 - [x] Verified local audio
 - [x] Verified local video
 - [x] Tested responsive layout
-- [ ] Validate HTML
-- [ ] Validate CSS
+- [x] Validated `index.html` with 0 errors
+- [x] Validated `resume.html` with 0 errors
+- [x] Validated `cover-letter.html` with 0 errors
+- [x] Validated `career-goals.html` with 0 errors
+- [x] Validated `style.css` with 0 errors
 - [ ] Complete final WGU rubric review
 
 ## Current Status
 
-**Current focus:** Validation and final review
+**Current focus:** Final testing and rubric review
 
 The résumé, cover letter, and career goals pages now contain their required HTML, JavaScript, media, and form elements.
 
-The website has completed its first manual functional test. Navigation, responsive behavior, JavaScript output, local media, and page content are functioning as expected.
+All four HTML pages and the shared stylesheet have passed W3C validation with zero errors. Manual testing has also confirmed that navigation, responsive behavior, JavaScript output, and local media are functioning as expected.
 
-The remaining work focuses on validating the HTML and CSS, testing the contact form submission, and completing a final review against the WGU requirements.
+The remaining work is to test the contact form submission and perform a final review of the completed website against the WGU assessment requirements.
 
 ## Development Approach
 
