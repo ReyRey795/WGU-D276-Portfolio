@@ -44,6 +44,10 @@ h3 {
     font-size: 0.9rem;
 }
 
+ul {
+    list-style: square;
+}
+
 footer {
     padding: 20px;
     text-align: center;
