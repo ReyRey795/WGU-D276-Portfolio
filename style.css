@@ -8,6 +8,21 @@ body {
     line-height: 1.6;
 }
 
+header {
+    padding: 20px;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px 20px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+}
+
 nav {
     display: flex;
     gap: 20px;
