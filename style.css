@@ -20,6 +20,24 @@ main {
     padding: 30px 20px;
 }
 
+main section {
+    margin-top: 30px;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+
 footer {
     padding: 20px;
     text-align: center;
