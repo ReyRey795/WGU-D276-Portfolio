@@ -38,6 +38,12 @@ h3 {
     margin-bottom: 10px;
 }
 
+#current-date {
+    margin-top: 10px;
+    color: #555555;
+    font-size: 0.9rem;
+}
+
 footer {
     padding: 20px;
     text-align: center;
