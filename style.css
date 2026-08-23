@@ -41,6 +41,29 @@ nav a:hover {
     text-decoration: underline;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+caption {
+    margin-bottom: 10px;
+    font-weight: 700;
+    text-align: left;
+}
+
+th,
+td {
+    padding: 12px;
+    border: 1px solid #cccccc;
+    text-align: left;
+}
+
+th {
+    background-color: #e9ecef;
+}
+
 img {
     display: block;
     width: 300px;
