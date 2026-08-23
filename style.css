@@ -155,3 +155,33 @@ audio {
     max-width: 100%;
     margin-top: 10px;
 }
+
+@media (max-width: 700px) {
+    nav {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    main {
+        padding: 20px 15px;
+    }
+
+    table {
+        font-size: 0.9rem;
+    }
+
+    th,
+    td {
+        padding: 8px;
+    }
+
+    img,
+    video,
+    audio {
+        width: 100%;
+    }
+
+    button {
+        width: 100%;
+    }
+}
