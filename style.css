@@ -7,3 +7,18 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
 }
+nav {
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+}
+
+nav a {
+    color: #1f2933;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
